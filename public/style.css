@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.my-textbox {
+  font-family: 'Press Start 2P', sans-serif;
+  border: 2px solid rgb(50, 202, 50);
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 15px;
+
+  color: #333;
+}
+
+html, body {
+  margin: auto;
+  padding: 0;
+  background-color: #000000;
+  width: 600px;
+  height: 800px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+canvas {
+  display: block;
+}
+
